@@ -53,7 +53,7 @@ In this example I used "jpg" as input
 Now file should be copied in your clipboard.
 Remember that only ".bmp, .gif, .jpg, .png, .tiff" are supported by [nircmd]
 Pressing any key now opens the file that got selected on your default application
-selected for that file type!
+selected for that file type!!!
 ```
 ## Acknowledgements
 
